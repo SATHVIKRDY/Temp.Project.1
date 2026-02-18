@@ -8,7 +8,7 @@ const Index = () => {
       <header className="relative overflow-hidden border-b border-border">
         <div className="max-w-5xl mx-auto px-6 py-16 text-center">
           <div className="inline-block px-3 py-1 mb-4 text-xs font-mono bg-primary/10 text-primary rounded-full border border-primary/20">
-            100% Free · No Login Required
+            Created By - SATHVIK REDDY
           </div>
           <h1 className="text-5xl font-extrabold tracking-tight text-foreground mb-4">
             JS <span className="text-primary">Mastery</span>
